@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#f6ecd7"/>
+  <g stroke="#dccfa9" stroke-width="1">
+    <path d="M0 150H1200M0 300H1200M0 450H1200M0 600H1200M0 750H1200M0 900H1200M0 1050H1200"/>
+    <path d="M150 0V1200M300 0V1200M450 0V1200M600 0V1200M750 0V1200M900 0V1200M1050 0V1200"/>
+  </g>
+  <g fill="#e7dcba" stroke="#cdb98c" stroke-width="2">
+    <path d="M220 220 Q300 160 390 210 Q470 250 440 330 Q420 400 330 410 Q240 420 200 350 Q170 280 220 220 Z"/>
+    <path d="M760 480 Q850 430 950 470 Q1030 510 1010 590 Q990 660 900 680 Q800 700 750 630 Q710 550 760 480 Z"/>
+    <path d="M300 820 Q380 780 450 830 Q510 880 470 950 Q430 1010 350 990 Q270 970 260 900 Q255 850 300 820 Z"/>
+    <path d="M880 900 Q950 870 1010 910 Q1060 950 1030 1010 Q1000 1060 930 1040 Q860 1020 855 960 Q853 925 880 900 Z"/>
+  </g>
+  <g fill="none" stroke="#b97a5e" stroke-width="2.5" stroke-dasharray="4 9" stroke-linecap="round">
+    <path d="M390 300 Q560 220 780 520"/>
+    <path d="M420 900 Q600 700 880 620"/>
+    <path d="M100 620 Q260 560 330 400"/>
+    <path d="M950 1000 Q1100 850 1050 640"/>
+  </g>
+  <g fill="#b97a5e">
+    <circle cx="390" cy="300" r="6"/>
+    <circle cx="780" cy="520" r="6"/>
+    <circle cx="420" cy="900" r="6"/>
+    <circle cx="880" cy="620" r="6"/>
+    <circle cx="100" cy="620" r="6"/>
+    <circle cx="950" cy="1000" r="6"/>
+  </g>
+  <g transform="translate(1080,150)" stroke="#c1a878" fill="none" stroke-width="2">
+    <circle r="42"/>
+    <circle r="6" fill="#c1a878" stroke="none"/>
+    <path d="M0 -58V58M-58 0H58" stroke-width="1.5"/>
+    <path d="M0 -42 L10 0 L0 42 L-10 0 Z" fill="#d3ba8c" stroke="none"/>
+  </g>
+  <g stroke="#c9b68a" fill="none" stroke-width="2" stroke-linecap="round">
+    <path d="M600 130 q10 -14 20 0 q10 14 20 0"/>
+    <path d="M170 1080 q10 -14 20 0 q10 14 20 0"/>
+    <path d="M1000 350 q10 -14 20 0 q10 14 20 0"/>
+    <path d="M640 1000 q10 -14 20 0 q10 14 20 0"/>
+  </g>
+</svg>
